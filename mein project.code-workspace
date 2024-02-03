@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../mein project"
+		},
+		{
+			"path": "../../Downloads/travel site"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Flappy-Bird [Korsat X Parmaga]"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "profile"
+	}
+}
